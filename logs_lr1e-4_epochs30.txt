@@ -1,0 +1,251 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Length of train dataloader: 1563 batches of 32
+Length of test dataloader: 313 batches of 32
+Training Generator
+-------
+ Epoch: 0
+-------
+Batch: 0, loss: 2.2974960803985596, discriminator loss: 1.3826924324035645
+Batch: 500, loss: 1.6790688037872314, discriminator loss: 0.005496238823980093
+Batch: 1000, loss: 1.3832446336746216, discriminator loss: 0.0014976566308178008
+Batch: 1500, loss: 1.5115963220596313, discriminator loss: 0.0006492601707577706
+epoch : 0, Average loss 1.6955934167289612
+-------
+ Epoch: 1
+-------
+Batch: 0, loss: 1.5100319385528564, discriminator loss: 0.0006520818860735744
+Batch: 500, loss: 1.2339366674423218, discriminator loss: 0.00029114692588336764
+Batch: 1000, loss: 1.3329790830612183, discriminator loss: 0.00023885529080871492
+Batch: 1500, loss: 1.4973595142364502, discriminator loss: 0.00013428334787022323
+epoch : 1, Average loss 1.3985924834024426
+-------
+ Epoch: 2
+-------
+Batch: 0, loss: 1.4403640031814575, discriminator loss: 0.0001235057134181261
+Batch: 500, loss: 1.0015639066696167, discriminator loss: 0.0001031670421070885
+Batch: 1000, loss: 1.1048040390014648, discriminator loss: 0.00010425295477034524
+Batch: 1500, loss: 1.488365888595581, discriminator loss: 5.954645857855212e-05
+epoch : 2, Average loss 1.290937699496708
+-------
+ Epoch: 3
+-------
+Batch: 0, loss: 1.4393508434295654, discriminator loss: 7.575975760119036e-05
+Batch: 500, loss: 1.239546537399292, discriminator loss: 5.409850928117521e-05
+Batch: 1000, loss: 0.8487356305122375, discriminator loss: 3.792106108448934e-05
+Batch: 1500, loss: 1.0644340515136719, discriminator loss: 2.393749036855297e-05
+epoch : 3, Average loss 1.2159384561896858
+-------
+ Epoch: 4
+-------
+Batch: 0, loss: 1.0943948030471802, discriminator loss: 2.6309728127671406e-05
+Batch: 500, loss: 1.4308935403823853, discriminator loss: 1.877561780929682e-05
+Batch: 1000, loss: 1.2350742816925049, discriminator loss: 2.6393354528408963e-05
+Batch: 1500, loss: 1.2557587623596191, discriminator loss: 4.4919255742570385e-05
+epoch : 4, Average loss 1.1574973382785088
+-------
+ Epoch: 5
+-------
+Batch: 0, loss: 1.0071330070495605, discriminator loss: 1.6844404308358206e-05
+Batch: 500, loss: 1.113676905632019, discriminator loss: 2.547541407693643e-05
+Batch: 1000, loss: 0.9701409935951233, discriminator loss: 1.890683270175941e-05
+Batch: 1500, loss: 0.9143059253692627, discriminator loss: 2.0408894761203557e-05
+epoch : 5, Average loss 1.1064942758280119
+-------
+ Epoch: 6
+-------
+Batch: 0, loss: 0.827552080154419, discriminator loss: 1.747628211887786e-05
+Batch: 500, loss: 1.14812433719635, discriminator loss: 8.547357901989017e-06
+Batch: 1000, loss: 1.0672101974487305, discriminator loss: 0.0021018334000700634
+Batch: 1500, loss: 1.0166869163513184, discriminator loss: 1.0836205865416559e-05
+epoch : 6, Average loss 1.0654140072454648
+-------
+ Epoch: 7
+-------
+Batch: 0, loss: 0.9787639379501343, discriminator loss: 1.4197969358065166e-05
+Batch: 500, loss: 1.0936810970306396, discriminator loss: 1.0728918368840823e-05
+Batch: 1000, loss: 0.7763668298721313, discriminator loss: 3.2305795002685046e-06
+Batch: 1500, loss: 1.1980184316635132, discriminator loss: 5.984337758491165e-06
+epoch : 7, Average loss 1.0318349366262793
+-------
+ Epoch: 8
+-------
+Batch: 0, loss: 0.8766526579856873, discriminator loss: 9.977900390367722e-06
+Batch: 500, loss: 1.464237093925476, discriminator loss: 1.1968720764343744e-05
+Batch: 1000, loss: 0.8648247718811035, discriminator loss: 5.41212492635168e-06
+Batch: 1500, loss: 0.9329499006271362, discriminator loss: 1.0097100471284648e-05
+epoch : 8, Average loss 0.9948352366323587
+-------
+ Epoch: 9
+-------
+Batch: 0, loss: 0.9671511650085449, discriminator loss: 7.796330419296282e-06
+Batch: 500, loss: 1.6551742553710938, discriminator loss: 3.886235060690524e-06
+Batch: 1000, loss: 0.9423043727874756, discriminator loss: 7.820173618711123e-06
+Batch: 1500, loss: 0.9691004157066345, discriminator loss: 0.00010969766385642288
+epoch : 9, Average loss 0.9639994298809245
+-------
+ Epoch: 10
+-------
+Batch: 0, loss: 1.1349849700927734, discriminator loss: 1.643915311433375e-05
+Batch: 500, loss: 0.9895398020744324, discriminator loss: 1.5080136518008657e-05
+Batch: 1000, loss: 0.9278711676597595, discriminator loss: 1.0097099880113091e-05
+Batch: 1500, loss: 0.6080507040023804, discriminator loss: 8.559281309317156e-06
+epoch : 10, Average loss 0.9338339081919506
+-------
+ Epoch: 11
+-------
+Batch: 0, loss: 0.8924152255058289, discriminator loss: 3.4213151707263023e-06
+Batch: 500, loss: 0.8947478532791138, discriminator loss: 4.971047462731803e-06
+Batch: 1000, loss: 1.0061143636703491, discriminator loss: 4.434600339209283e-06
+Batch: 1500, loss: 0.6989529132843018, discriminator loss: 8.010908163669229e-06
+epoch : 11, Average loss 0.9102518064466258
+-------
+ Epoch: 12
+-------
+Batch: 0, loss: 0.6256157755851746, discriminator loss: 8.47582823553239e-06
+Batch: 500, loss: 0.8739496469497681, discriminator loss: 9.02419978956459e-06
+Batch: 1000, loss: 0.78285813331604, discriminator loss: 9.548722073304815e-06
+Batch: 1500, loss: 0.7483882308006287, discriminator loss: 6.938013575563673e-06
+epoch : 12, Average loss 0.8837672540642707
+-------
+ Epoch: 13
+-------
+Batch: 0, loss: 1.213817834854126, discriminator loss: 6.520774286400411e-06
+Batch: 500, loss: 0.6508116722106934, discriminator loss: 3.9339174009001e-06
+Batch: 1000, loss: 0.7351189851760864, discriminator loss: 7.498300010411185e-06
+Batch: 1500, loss: 0.7335568070411682, discriminator loss: 5.102176442051132e-06
+epoch : 13, Average loss 0.8627448658758604
+-------
+ Epoch: 14
+-------
+Batch: 0, loss: 0.6206303834915161, discriminator loss: 2.3830317513784393e-05
+Batch: 500, loss: 0.5722314715385437, discriminator loss: 2.8133876367064658e-05
+Batch: 1000, loss: 0.8104893565177917, discriminator loss: 6.580382432730403e-06
+Batch: 1500, loss: 0.5687755346298218, discriminator loss: 4.363072503110743e-06
+epoch : 14, Average loss 0.8428861665100298
+-------
+ Epoch: 15
+-------
+Batch: 0, loss: 0.4770170748233795, discriminator loss: 4.124652878090273e-06
+Batch: 500, loss: 0.478372722864151, discriminator loss: 3.719339429153479e-06
+Batch: 1000, loss: 0.7738060355186462, discriminator loss: 1.3339628640096635e-05
+Batch: 1500, loss: 0.6194634437561035, discriminator loss: 1.5521196019108174e-05
+epoch : 15, Average loss 0.8191466035365448
+-------
+ Epoch: 16
+-------
+Batch: 0, loss: 0.7923707962036133, discriminator loss: 8.13011347418069e-06
+Batch: 500, loss: 0.8134372234344482, discriminator loss: 5.304832257024827e-06
+Batch: 1000, loss: 0.7564983367919922, discriminator loss: 4.04120759185389e-06
+Batch: 1500, loss: 1.0261024236679077, discriminator loss: 5.304830665409099e-06
+epoch : 16, Average loss 0.7995892343083331
+-------
+ Epoch: 17
+-------
+Batch: 0, loss: 0.613261342048645, discriminator loss: 3.826627425951301e-06
+Batch: 500, loss: 0.8487908244132996, discriminator loss: 4.756465250466135e-06
+Batch: 1000, loss: 0.40465694665908813, discriminator loss: 2.3841899178478344e-06
+Batch: 1500, loss: 0.9775351285934448, discriminator loss: 9.417585442861309e-06
+epoch : 17, Average loss 0.7798498827947383
+-------
+ Epoch: 18
+-------
+Batch: 0, loss: 0.7848228216171265, discriminator loss: 4.1604148009355414e-06
+Batch: 500, loss: 0.7356423139572144, discriminator loss: 2.6106879204235157e-06
+Batch: 1000, loss: 0.598787784576416, discriminator loss: 1.7166158386316965e-06
+Batch: 1500, loss: 0.6529912948608398, discriminator loss: 1.0728844415552885e-06
+epoch : 18, Average loss 0.7620160212634239
+-------
+ Epoch: 19
+-------
+Batch: 0, loss: 0.8718969821929932, discriminator loss: 9.41754080940882e-07
+Batch: 500, loss: 0.6950732469558716, discriminator loss: 2.7418193894845898e-06
+Batch: 1000, loss: 0.5236932039260864, discriminator loss: 1.788141628367157e-06
+Batch: 1500, loss: 0.8507049083709717, discriminator loss: 2.3126637529458094e-06
+epoch : 19, Average loss 0.7459525829008277
+-------
+ Epoch: 20
+-------
+Batch: 0, loss: 0.5191516876220703, discriminator loss: 3.1590526532454533e-06
+Batch: 500, loss: 0.6460270881652832, discriminator loss: 1.5616436201071338e-06
+Batch: 1000, loss: 0.8335275650024414, discriminator loss: 1.14441017444733e-06
+Batch: 1500, loss: 0.9271555542945862, discriminator loss: 3.7789441648783393e-06
+epoch : 20, Average loss 0.722266211733937
+-------
+ Epoch: 21
+-------
+Batch: 0, loss: 0.7734726667404175, discriminator loss: 2.9087129519211884e-06
+Batch: 500, loss: 0.4085656702518463, discriminator loss: 1.5497224808314058e-06
+Batch: 1000, loss: 0.7002764344215393, discriminator loss: 1.895430250442587e-06
+Batch: 1500, loss: 0.7518709897994995, discriminator loss: 1.227856768082347e-06
+epoch : 21, Average loss 0.7085428956946118
+-------
+ Epoch: 22
+-------
+Batch: 0, loss: 0.40921783447265625, discriminator loss: 1.1086473136856512e-06
+Batch: 500, loss: 0.7750932574272156, discriminator loss: 8.106236549565438e-07
+Batch: 1000, loss: 0.9860022664070129, discriminator loss: 1.2636196970561287e-06
+Batch: 1500, loss: 0.7414896488189697, discriminator loss: 5.602839024732021e-07
+epoch : 22, Average loss 0.6901985955730281
+-------
+ Epoch: 23
+-------
+Batch: 0, loss: 0.7425148487091064, discriminator loss: 4.887582747414854e-07
+Batch: 500, loss: 0.5331265926361084, discriminator loss: 9.894377853925108e-07
+Batch: 1000, loss: 0.8361022472381592, discriminator loss: 8.106236350613472e-07
+Batch: 1500, loss: 0.520520806312561, discriminator loss: 7.271770812167233e-07
+epoch : 23, Average loss 0.6780073267293907
+-------
+ Epoch: 24
+-------
+Batch: 0, loss: 0.6997052431106567, discriminator loss: 4.291535731226759e-07
+Batch: 500, loss: 0.42782968282699585, discriminator loss: 3.337861016916577e-07
+Batch: 1000, loss: 0.5496079921722412, discriminator loss: 2.503399218767299e-06
+Batch: 1500, loss: 0.5455459952354431, discriminator loss: 1.0132796830930601e-06
+epoch : 24, Average loss 0.6611192263305301
+-------
+ Epoch: 25
+-------
+Batch: 0, loss: 0.7829731702804565, discriminator loss: 1.2874614299107634e-06
+Batch: 500, loss: 0.5869631767272949, discriminator loss: 9.775168678061164e-07
+Batch: 1000, loss: 0.8673660755157471, discriminator loss: 1.0728844813456816e-06
+Batch: 1500, loss: 0.6115740537643433, discriminator loss: 3.1352108635473995e-06
+epoch : 25, Average loss 0.6485312363122109
+-------
+ Epoch: 26
+-------
+Batch: 0, loss: 0.5946973562240601, discriminator loss: 2.75373951126312e-06
+Batch: 500, loss: 0.4112468361854553, discriminator loss: 2.0861655684711876e-06
+Batch: 1000, loss: 0.8011963367462158, discriminator loss: 1.251698591886452e-06
+Batch: 1500, loss: 0.7223678231239319, discriminator loss: 1.072884418817921e-06
+epoch : 26, Average loss 0.6341062587038188
+-------
+ Epoch: 27
+-------
+Batch: 0, loss: 0.4768272042274475, discriminator loss: 6.794932971843082e-07
+Batch: 500, loss: 0.5048612356185913, discriminator loss: 6.556514193789553e-07
+Batch: 1000, loss: 0.7992768883705139, discriminator loss: 5.126001440203254e-07
+Batch: 1500, loss: 0.7179509401321411, discriminator loss: 4.053117038438359e-07
+epoch : 27, Average loss 0.6249570552157196
+-------
+ Epoch: 28
+-------
+Batch: 0, loss: 0.49062496423721313, discriminator loss: 7.152561408929614e-07
+Batch: 500, loss: 0.5174353122711182, discriminator loss: 7.867817316764558e-07
+Batch: 1000, loss: 0.35794001817703247, discriminator loss: 7.033351579366353e-07
+Batch: 1500, loss: 0.5370131731033325, discriminator loss: 3.576279596018139e-07
+epoch : 28, Average loss 0.6090417949534043
+-------
+ Epoch: 29
+-------
+Batch: 0, loss: 0.623123049736023, discriminator loss: 4.768373116803559e-07
+Batch: 500, loss: 0.48063111305236816, discriminator loss: 3.3378608463863204e-07
+Batch: 1000, loss: 0.7339166402816772, discriminator loss: 2.384186245762976e-07
+Batch: 1500, loss: 0.5360990762710571, discriminator loss: 1.5497209631121224e-07
+epoch : 29, Average loss 0.5993065251155458
+
+
+--------------Training Complete-----------
+
+Size of ensemble :  8
+Accuracy of ensemble on test dataset:  0.5939
